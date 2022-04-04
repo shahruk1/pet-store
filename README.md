@@ -1,10 +1,10 @@
-# EXQUISITE - EVENT-MANAGEMNET-SYSTEM
+# Cats&Dogs - PET-STORE
 
-<!-- PPT : [Click Here](https://docs.google.com/presentation/d/1ChT6H6wb5OIiYuz-tZQBNC8b2-ZIeDcy/edit#slide=id.p1) -->
+
 <br>
 Presentation Video : [Click Here](https://drive.google.com/drive/folders/1H2omNrRpQwSA2nQ--d1ax6VOU1BTiAyY?usp=sharing)
 <br>
-<!-- Live Demo Video : [Click Here](https://clipchamp.com/watch/qZ726cMrv92) -->
+
 ## Steps to run the project in your machine
 1. Download and install spring tool suite in your machine
 2. Clone or download the repository
