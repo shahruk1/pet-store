@@ -25,13 +25,5 @@ Presentation Video : [Click Here](https://drive.google.com/drive/folders/1H2omNr
 <p>Email : ganapathydaprojects@gmail.com</p>
 <p>password : 123</p>
 
-## SUBADMIN-LOGIN
-<p>Email : venky777@gmail.com</p>
-<p>password : 123</p>
-
-## SUPERADMIN-LOGIN
-<p>Email : sai@gmail.com</p>
-<p>password : 123</p>
-
 
 
