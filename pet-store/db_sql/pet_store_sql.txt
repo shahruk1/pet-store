@@ -1,0 +1,8 @@
+create database pet_store;
+use pet_store;
+create table user(id int,address text,confirm_password varchar(255),contact_no varchar(255),email varchar(255),first_name varchar(255),gender varchar(255),last_name varchar(255),password varchar(255),reset_password_token varchar(255),role varchar(255));
+create table hotel(id int,hotel_desc  varchar(255),hotel_img1 longblob,hotel_name  varchar(255),location  varchar(255),price int,rating int);
+create table hibernate_sequence(next_val bigint);
+create table event( id int,event_desc varchar(255),event_img longblob,event_name varchar(255),event_price int);
+create table catering(id int,cater_desc varchar(255),cater_img longblob,cater_location  varchar(255),cater_price int,catername varchar(255));
+create table bookings(id int,accept_status int,amount int,bookedon varchar(255),event_date date,max_total_hour varchar(255),no_of_guest varchar(255),payment_status int,event_start_time varchar(255),catering_id int references catering(id),event_id int references event(id),hotel_id int references hotel(id),user_id int references user(id));
