@@ -5,7 +5,9 @@
 Presentation Video : [Click Here](https://drive.google.com/drive/folders/1H2omNrRpQwSA2nQ--d1ax6VOU1BTiAyY?usp=sharing)
 <br>
 <br>
-ppt link : 
+ppt link : [Click Here]( https://docs.google.com/presentation/d/1bA_WC6yCUrOGwz-xP8jwc59Svxuojt4F/edit?usp=sharing&ouid=100426212832264576416&rtpof=true&sd=true)
+<br> 
+
 
 ## Steps to run the project in your machine
 1. Download and install spring tool suite in your machine
